@@ -1,5 +1,7 @@
 [![Build Status](https://app.travis-ci.com/NamoSmith/demo-pyci.svg?branch=main)](https://app.travis-ci.com/NamoSmith/demo-pyci)
 
+[![codecov](https://codecov.io/gh/NamoSmith/demo-pyci/branch/main/graph/badge.svg?token=Y35WUXAF7B)](https://codecov.io/gh/NamoSmith/demo-pyci)
+
 Continuous Integration Demo
 ============================
 
