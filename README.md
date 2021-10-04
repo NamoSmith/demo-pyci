@@ -1,4 +1,4 @@
-[![Build Status](https://app.travis-ci.com/NamoSmith/demo-pyci.svg?branch=master)](https://app.travis-ci.com/NamoSmith/demo-pyci)
+[![Build Status](https://app.travis-ci.com/NamoSmith/demo-pyci.svg?branch=master)](https://app.travis-ci.com/github/NamoSmith/demo-pyci)
 
 Continuous Integration Demo
 ============================
